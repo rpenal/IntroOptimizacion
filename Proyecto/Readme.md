@@ -7,3 +7,7 @@ En Colombia la pobreza ha sido una situación con la que hemos venido luchando d
 Es por esto que problemas como la optimización de la dieta pueden ser muy útiles en el entorno colombiano, no solo para poder dar guías alimentarias a las familias que puedan ayudarles a llevar dietas lo más completas posibles usando el menor presupuesto, sino también para que el gobierno pueda aprovechar mejor sus recursos a la hora de dar planes alimentarios, posiblemente permitiendo expandir la cobertura a una mayor población.
 
 Sin embargo, el costo de una dieta puede variar mucho entre determinadas ciudades, lo que hace más complicado poder dar una gran cobertura a lo largo del territorio nacional. Es por esto que se puede usar optimización estocástica, que tome en cuenta esta varianza, para poder encontrar un menú que sea lo más generalizable posible.
+
+Video sobre el proyecto: https://youtu.be/bitVHABIkOo
+
+Collab secundario: https://github.com/drodriguezol/Optimizacion-Proyecto/
